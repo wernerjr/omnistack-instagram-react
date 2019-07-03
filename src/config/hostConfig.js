@@ -1,5 +1,5 @@
 const hostConfig = {
-    baseURL: "http://ed8128b6.ngrok.io"
+  baseURL: 'http://localhost:3333',
 };
 
 export default hostConfig;
